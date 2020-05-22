@@ -1,5 +1,7 @@
 #IMDb Web Scrapper
 
+A web Scraping tool to scrape popular movies and TV shows list from IMDb website
+
 ##Setup
 
 ***Built in python3***
