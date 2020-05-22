@@ -1,8 +1,8 @@
-#IMDb Web Scrapper
+<h1>IMDb Web Scrapper</h1>
 
 A web Scraping tool to scrape popular movies and TV shows list from IMDb website
 
-##Setup
+<h2>Setup</h2>
 
 ***Built in python3***
 <ul>
@@ -11,7 +11,7 @@ A web Scraping tool to scrape popular movies and TV shows list from IMDb website
 <li>Install pandas module --> pip install pandas</li>
 <li>Install pyfiglet module -->pip install pyfiglet</li>
 </ul>
-##Usage
+<h2>Usage</h2>
 
 Run the imdb.py using python3 
 <ul>
