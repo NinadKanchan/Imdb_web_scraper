@@ -1,6 +1,6 @@
 <h1>IMDb Web Scrapper</h1>
 
-A web Scraping tool to scrape popular movies and TV shows list from IMDb website
+A Terminal Based web Scraping tool to scrape popular movies and TV shows list from IMDb website
 
 <h2>Setup</h2>
 
